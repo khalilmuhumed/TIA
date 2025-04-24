@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="fi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Junien aikataulut</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Junien aikataulut</h1>
+
+    <div class="input-row">
+      <label for="fromStation">Lähtöasema:</label>
+      <select id="fromStation"></select>
+    </div>
+
+    <div class="input-row">
+      <label for="toStation">Määränpääasema:</label>
+      <select id="toStation"></select>
+    </div>
+
+    <button id="searchBtn">Hae aikataulut</button>
+
+    <div id="results"></div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
