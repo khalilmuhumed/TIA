@@ -3,10 +3,9 @@ Simple live train timetable application using Digitraffic API
 **Author:** Khalil Muhumed
 
 ## Demo link:
+## Demo link:
 Access my site at:  
-🔗 ## Demo link:
-🔗 [https://tia-project-name.netlify.app](https://tia-project-name.netlify.app)
-
+[https://junienaikatauluhaku.netlify.app](https://junienaikatauluhaku.netlify.app)
 
 ## How was the workload divided
 This project was completed individually.  
@@ -55,8 +54,8 @@ The following technologies were used:
 **Junien Aikatauluhaku** is complete and fully functional.
 
 ### Future ideas for development:
-- ⏱️ Live update interval
-- 🌍 Multi-language support
+- Live update interval
+- Multi-language support
 
 ## Credits
 - [Digitraffic API](https://rata.digitraffic.fi)
