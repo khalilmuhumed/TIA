@@ -3,7 +3,6 @@ Simple live train timetable application using Digitraffic API
 **Author:** Khalil Muhumed
 
 ## Demo link:
-## Demo link:
 Access my site at:  
 [https://junienaikatauluhaku.netlify.app](https://junienaikatauluhaku.netlify.app)
 
