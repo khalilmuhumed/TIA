@@ -25,9 +25,9 @@ This project was completed individually.
 It uses the Digitraffic API provided by Fintraffic.
 
 ## Screenshots
-[Screenshot]
+![Screenshot](./screenshot.png)
 
-Picture by [Kelly Sikkema](https://unsplash.com/@kellysikkema)
+Picture by [Khalil Muhumed]
 
 ## Technologies
 The following technologies were used:
