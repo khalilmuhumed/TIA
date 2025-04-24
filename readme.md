@@ -4,7 +4,9 @@ Simple live train timetable application using Digitraffic API
 
 ## Demo link:
 Access my site at:  
-🔗 [https://your-netlify-link.netlify.app](https://your-netlify-link.netlify.app)
+🔗 ## Demo link:
+🔗 [https://tia-project-name.netlify.app](https://tia-project-name.netlify.app)
+
 
 ## How was the workload divided
 This project was completed individually.  
