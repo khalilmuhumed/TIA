@@ -63,7 +63,6 @@ The following technologies were used:
 
 ## License
 This project is licensed under the **MIT License**.  
-You are free to use, modify, and distribute it.  
 More info: [MIT License](https://opensource.org/licenses/MIT)
 
 ---
